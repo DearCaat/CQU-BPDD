@@ -1,6 +1,23 @@
-### The Chongqing University- Bituminous Pavement Disease Detection Dataset (CQU-BPDD dataset)
+## The Chongqing University Bituminous Pavement Disease Detection Dataset (CQU-BPDD)
 
-CQU-BPDD consists of 60059 1200x900 resolution bituminous pavement images which automatically captured by the in-vehicle cameras at different time from different areas in southern China. CQU-BPDD involves seven different distresses, namely **transverse crack, massive crack, alligator crack, crack pouring, longitudinal crack, ravellin, repair, and the normal ones.**
-![Image](https://github.com/HuangSheng-CQU/HuangSheng-CQU.github.io/blob/master/dataset.png?raw=true)
+**The CQU-BPDD** consists of 60,059 bituminous pavement images, which were automatically captured by the in-vehicle cameras of the professional pavement inspection vehicle at different times from different areas in southern China . Each pavement image is corresponding to a 2 × 3 meters pavement patch of highways and its resolution is 1200×900. The CQU-BPDD involves seven different distresses, namely **transverse crack, massive crack, alligator crack, crack pouring, longitudinal crack, ravelling, repair, and the normal ones.** 
 
-[download the dataset](https://pan.baidu.com/s/1ShSn0-bpBhCvNF1vF_LH5g), _send email to huangsheng@cqu.edu.cn for achieving the download password!_
+### The Preview of CQU-BPDD
+CQU-BPDD has the following characteristics:
+* Illumination  is  uneven,  which  is  manifested  as  weaklight  in  some  areas  (called  dark  parts)  and  sufficientlight in some areas (called bright parts).
+* The proportion of diseased areas is relatively small, andsome diseased areas are in the dark, which is difficultto identify.
+* There are a variety of background interferences in realenvironments, such as zebra crossings, foreign bodies,ruts, etc.
+
+![Image](https://github.com/DearCaat/CQU-BPDD/blob/gh-pages/images/dataset.png?raw=true)
+
+### The data distribution of CQU-BPDD
+We randomly select 5,140 diseased pavement images involving all diseases and 5,000 normal pavement images to produce the training set, while the rest of dataset is used as the testing set. In the testing set, there are 11,589 diseased pavement images and 38,330 normal images.
+
+||Transverse Crack|Massive Crack|Alligator Crack|Crack Pouring|Longitudinal Crack|Ravelling|Repair|Normal|All|
+|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
+|Train Set|519|1200|425|1000|1000|478|518|5000|10140|
+|Test Set|520|5007|426|3199|1382|479|576|38330|49919|
+
+### Download CQU-BPDD
+[Downloading the dataset](https://pan.baidu.com/s/1ilLufYJ8zGWc048KfDro_Q), _send email to huangsheng@cqu.edu.cn for achieving the download password! (Please note: CQU-BPDD can be only used in the uncommercial case.)_
+
