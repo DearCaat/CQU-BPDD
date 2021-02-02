@@ -19,5 +19,5 @@ We randomly select 5,140 diseased pavement images involving all diseases and 5,0
 |Test Set|520|5007|426|3199|1382|479|576|38330|49919|
 
 ### Download CQU-BPDD
-[Downloading the dataset](https://pan.baidu.com/s/1ilLufYJ8zGWc048KfDro_Q), _send email to tangwenhao@cqu.edu.cn (or huangsheng@cqu.edu.cn) for achieving the download password! (Please note: CQU-BPDD can be only used in the uncommercial case.)_
+[Downloading the dataset](https://pan.baidu.com/s/1ilLufYJ8zGWc048KfDro_Q), _send email to wenhaotang@cqu.edu.cn (or huangsheng@cqu.edu.cn) for achieving the download password! (Please note: CQU-BPDD can be only used in the uncommercial case.)_
 
