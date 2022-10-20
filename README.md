@@ -2,6 +2,8 @@
 
 **The CQU-BPDD** consists of 60,056 bituminous pavement images, which were automatically captured by the in-vehicle cameras of the professional pavement inspection vehicle at different times from different areas in southern China . Each pavement image is corresponding to a 2 × 3 meters pavement patch of highways and its resolution is 1200×900. The CQU-BPDD involves seven different distresses, namely **transverse crack, massive crack, alligator crack, crack pouring, longitudinal crack, ravelling, repair, and the normal ones.** 
 
+For more details of this task, see [Pavement Distress Classification](https://github.com/DearCaat/Pavement-Distress-Classification).
+
 ### The Preview of CQU-BPDD
 CQU-BPDD has the following characteristics:
 * Illumination  is  uneven,  which  is  manifested  as  weaklight  in  some  areas  (called  dark  parts)  and  sufficientlight in some areas (called bright parts).
